@@ -6,7 +6,6 @@
 	<groupId>com.angeloevaldez.app</groupId>
 	<artifactId>SpringBoot_Security_Thymeleaf</artifactId>
 	<version>1.0</version>
-	<packaging>war</packaging>
 
 	<name>SpringBoot_Security_Thymeleaf</name>
 	<description>Demo project for Spring Boot</description>
